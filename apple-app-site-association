@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9DFM4N278E.ru.halvacard",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "2588NT6657.ru.halvacard.enterprise",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+      "apps": [
+         "9DFM4N278E.ru.halvacard",
+         "2588NT6657.ru.halvacard.enterprise",
+         "2588NT6657.github.com/re7ty/demo/"
+      ]
+   }
+}
