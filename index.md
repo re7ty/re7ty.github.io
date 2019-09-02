@@ -1,5 +1,12 @@
-Go to friends [Friends link](https://re7ty.github.io/friends/)
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Math Ninja iPhone/iPod Touch Game | Making Addition, Subtraction, Multiplication, and Division Fun!</title>
+<meta name="apple-itunes-app" content="app-id=9DFM4N278E"/>
+<link rel="stylesheet" type="text/css" href="reset.css"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
 
+Go to friends [Friends link](https://re7ty.github.io/friends/)
 
 
 ## Welcome to GitHub Pages
