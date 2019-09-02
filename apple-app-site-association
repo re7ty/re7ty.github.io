@@ -5,7 +5,8 @@
       {
         "appID": "9DFM4N278E.ru.halvacard",
         "paths": [
-          "*"
+          "*",
+          "/friends"
         ]
       },
       {
