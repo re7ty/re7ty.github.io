@@ -1,4 +1,4 @@
-Go to friends [editor on GitHub](https://github.com/re7ty/re7ty.github.io/friends)
+Go to friends [editor on GitHub](https://re7ty.github.io/friends/)
 
 
 
