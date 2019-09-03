@@ -5,8 +5,7 @@
       {
         "appID": "9DFM4N278E.ru.halvacard",
         "paths": [
-          "*",
-          "/friends"
+          "*"
         ]
       },
       {
@@ -16,12 +15,5 @@
         ]
       }
     ]
-  },
-  "webcredentials": {
-      "apps": [
-         "9DFM4N278E.ru.halvacard",
-         "2588NT6657.ru.halvacard.enterprise",
-         "2588NT6657.github.com/re7ty/demo/"
-      ]
-   }
+  }
 }
